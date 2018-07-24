@@ -91,8 +91,8 @@ The code will generate a token needed to access the page. First pull up your bro
 
 
 Diagram of Over all System
- 
- ![Screenshot](Screen Shot 2018-07-21 at 9.42.57 PM.png)
+
+![](https://uclax.online/user/joeydee123/view/Screen%20Shot%202018-07-21%20at%209.42.57%20PM.png)
 
 
 
